@@ -1,5 +1,5 @@
-[![MasterHead](![Coding](https://github.com/user-attachments/assets/6fb996f9-290c-484a-8019-eb1b7599631b)
-)]
+![Coding](https://github.com/user-attachments/assets/69ee5c1a-cd7b-42e7-b98b-42ee3873e260)
+
 <h1 align="center">Hi 👋, I'm Akshay Bhosale</h1>
 <h3 align="center">A Passionate Full-Stack Developer and AIML Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="![Pi7_Tool_pic2](https://github.com/user-attachments/assets/33e4b43a-5273-4887-8ae2-d20b02f387e5)
