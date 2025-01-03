@@ -1,9 +1,12 @@
-![Coding](https://github.com/user-attachments/assets/69ee5c1a-cd7b-42e7-b98b-42ee3873e260)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/69ee5c1a-cd7b-42e7-b98b-42ee3873e260" alt="Coding" width="1000" height="400" />
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Akshay Bhosale</h1>
 <h3 align="center">A Passionate Full-Stack Developer and AIML Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="![Pi7_Tool_pic2](https://github.com/user-attachments/assets/33e4b43a-5273-4887-8ae2-d20b02f387e5)
-">
+<img align="right" alt="Coding" width="200" height="200" src="https://github.com/user-attachments/assets/33e4b43a-5273-4887-8ae2-d20b02f387e5" alt="Pi7_Tool_pic2">
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/akshaybhosale-letsdoitbycode/](https://www.linkedin.com/in/akshaybhosale-letsdoitbycode/)
 
