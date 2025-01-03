@@ -33,7 +33,7 @@
 
 ## GitHub Statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=letsdoitbycode&show_icons=true&locale=en&layout=compact" alt="letsdoitbycode" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=letsdoitbycode&show_icons=true&locale=en&layout=compact" alt="letsdoitbycode" style="height: 195px;" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=letsdoitbycode&show_icons=true&locale=en" alt="letsdoitbycode" />
