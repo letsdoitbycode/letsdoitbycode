@@ -13,17 +13,15 @@
 </p>
 
 
-- 🌱 I’m currently learning **DevOps, Django**
+- 👨‍💻 All of my projects are available at [Letsdoitbycode](https://github.com/letsdoitbycode)
 
-- 👨‍💻 All of my projects are available at [letsdoitbycode](https://github.com/letsdoitbycode)
-
-- 📝 I regularly write articles on [AkshayBhosale-letsdoitbycode](https://www.linkedin.com/in/akshaybhosale-letsdoitbycode/)
+- 📝 I regularly write articles on [Akshay.bhosale-letsdoitbycode](https://www.linkedin.com/in/akshaybhosale-letsdoitbycode/)
 
 - 💬 Ask me about **Artificial Intelligence,Machine Learning, Deep Neural Networks, MERN**
 
 - 📫 How to reach me **bhosale.akshay1305@gmail.com**
 
-- 💻 You can visit my Portfolio at ([Akshay Bhosale](https://akshay-bhosale-letsdoitbycode.netlify.app/))
+- 💻 You can visit my Portfolio at [Akshay Bhosale](https://akshay-bhosale-letsdoitbycode.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
