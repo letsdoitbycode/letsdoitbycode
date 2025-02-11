@@ -17,8 +17,6 @@
 
 - 📝 I regularly write articles on [Akshay.bhosale-letsdoitbycode](https://www.linkedin.com/in/akshaybhosale-letsdoitbycode/)
 
-- 💬 Ask me about **Artificial Intelligence,Machine Learning, Deep Neural Networks, MERN**
-
 - 📫 How to reach me **bhosale.akshay1305@gmail.com**
 
 - 💻 You can visit my Portfolio at [Akshay Bhosale](https://akshay-bhosale-letsdoitbycode.netlify.app/)
