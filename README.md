@@ -1,10 +1,4 @@
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/69ee5c1a-cd7b-42e7-b98b-42ee3873e260" alt="Coding" width="900" height="500" />
-</div>
-
-![profile]()
-
 <h1 align="center">Hi 👋, I'm Akshay Bhosale</h1>
 <h2 align="center">A Passionate Full-Stack Developer and AIML Enthusiast</h2>
 <img align="right" alt="Coding" width="250" height="250" src="https://github.com/user-attachments/assets/9d762924-f464-45f6-b327-e852ea232593" alt="Profile-Picture">
